@@ -37,6 +37,7 @@
   "menus": {
     "header": [
       {"label": "Browse", "url": "/"},
+      {"label": "Search", "url": "/search"},
       {"label": "About", "url": "/page/about"}
     ],
     "footer": [
