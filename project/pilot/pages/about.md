@@ -11,4 +11,4 @@ NYPL is committed to hosting this sandbox instance through July 2016. At the end
 
 # Contact Information  
 
-Please direct any questions or comments about the Transcript Editor Sandbox to Willa Armstrong, Digital Projects Librarian at willaarmstrong@nypl.org.  
+Please direct any questions or comments about the Open Transcript Editor Pilot to Willa Armstrong, Digital Projects Librarian at willaarmstrong@nypl.org.  
